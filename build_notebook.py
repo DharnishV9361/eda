@@ -33,8 +33,8 @@ def create_notebook():
     cells.append(nbf.v4.new_markdown_cell("""# Case Study: Exploratory Data Analysis, Distribution Analysis & Deep Learning Modeling of Urban Air Quality
 ### Course: U21ADP05 – Exploratory Data Analysis and Visualization
 **Department of Artificial Intelligence and Data Science | KPR Institute of Engineering and Technology**  
-**Academic Year:** 2026–2027 (ODD SEM) | **Batch:** 2023–2027 | **Year / Sem:** V  
-**Author:** Dharnish | **Roll No:** [Roll No. / Reg. No.] | **Course Coordinator:** Mr. Rushikesh Kadam  
+**Academic Year:** 2026–2027 (ODD SEM) | **Batch:** 2023–2027 | **Year / Sem:** Year III / Sem V (3rd Year AD - A)  
+**Author:** Dharnish V | **Roll No:** 24AD027 | **Course Coordinator:** Mr. Rushikesh Kadam  
 
 ---
 

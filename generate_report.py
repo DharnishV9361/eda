@@ -191,10 +191,10 @@ def build_pdf_report():
         [Paragraph("<b>Course Code:</b>", body_style), Paragraph("U21ADP05", body_style)],
         [Paragraph("<b>Course Title:</b>", body_style), Paragraph("Exploratory Data Analysis and Visualization", body_style)],
         [Paragraph("<b>Assignment:</b>", body_style), Paragraph("Assignment II (Academic Year 2026-2027 ODD SEM)", body_style)],
-        [Paragraph("<b>Student Name:</b>", body_style), Paragraph("<b>Dharnish</b>", body_style)],
-        [Paragraph("<b>Roll / Register No:</b>", body_style), Paragraph("<b>[Roll No. / Reg. No.]</b>", body_style)],
-        [Paragraph("<b>Department:</b>", body_style), Paragraph("Artificial Intelligence and Data Science", body_style)],
-        [Paragraph("<b>Batch / Year / Sem:</b>", body_style), Paragraph("Batch 2023-2027 | Year III / Semester V", body_style)],
+        [Paragraph("<b>Student Name:</b>", body_style), Paragraph("<b>Dharnish V</b>", body_style)],
+        [Paragraph("<b>Roll / Register No:</b>", body_style), Paragraph("<b>24AD027</b>", body_style)],
+        [Paragraph("<b>Department & Class:</b>", body_style), Paragraph("Artificial Intelligence and Data Science (3rd Year AD - A)", body_style)],
+        [Paragraph("<b>Batch / Year / Sem:</b>", body_style), Paragraph("Batch 2023-2027 | Year III / Semester V (Section A)", body_style)],
         [Paragraph("<b>Course Coordinator:</b>", body_style), Paragraph("Mr. Rushikesh Kadam", body_style)],
         [Paragraph("<b>Date of Submission:</b>", body_style), Paragraph("October 2026", body_style)]
     ]

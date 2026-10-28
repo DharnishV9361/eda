@@ -9,10 +9,10 @@
 * **Course Code:** U21ADP05
 * **Course Title:** Exploratory Data Analysis and Visualization
 * **Assignment:** Assignment II (Academic Year 2026–2027 ODD SEM)
-* **Student Name:** Dharnish
-* **Roll No. / Reg. No.:** [Roll No. / Reg. No.]
-* **Degree & Branch:** B.Tech. Artificial Intelligence and Data Science
-* **Year / Semester:** Year III / Semester V (Batch 2023–2027)
+* **Student Name:** Dharnish V
+* **Roll No. / Reg. No.:** 24AD027
+* **Degree & Branch:** B.Tech. Artificial Intelligence and Data Science (3rd Year AD - A)
+* **Year / Semester:** Year III / Semester V (Section A, Batch 2023–2027)
 * **Course Coordinator:** Mr. Rushikesh Kadam
 * **Date of Submission:** October 2026
 

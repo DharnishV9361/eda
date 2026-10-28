@@ -8,7 +8,7 @@
 
 > **Course:** U21ADP05 – Exploratory Data Analysis and Visualization (Assignment II)  
 > **Institution:** Department of Artificial Intelligence and Data Science, KPR Institute of Engineering and Technology  
-> **Author:** Dharnish | **Batch:** 2023–2027 (Year III / Semester V)  
+> **Student:** Dharnish V | **Roll No:** 24AD027 | **Class:** 3rd Year AD - A (Batch 2023–2027)  
 > **Course Coordinator:** Mr. Rushikesh Kadam  
 > **Date:** October 2026  
 
